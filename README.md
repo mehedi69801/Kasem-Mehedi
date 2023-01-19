@@ -7,6 +7,6 @@
 5. Bangladesh
 6. Chittagong
 
-7.creat fork 
-8.link copy 
+7. Creat fork 
+8. Link copy 
 9. git clone url
