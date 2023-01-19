@@ -1,7 +1,9 @@
 # Kasem-Mehedi
-Repository create
-add ReadME.md file
-url copy
-git clone url
-1. Bangladesh
-2. Chittagong
+
+1. Repository create
+2. add ReadME.md file
+3. url copy
+4. git clone url
+5. Bangladesh
+6. Chittagong
+
