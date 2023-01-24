@@ -18,9 +18,8 @@ print("Odd numbers:", count_odd)
 
 # 3. Write a python program to create a lambda function that add 15 to a given number passed in as an arguments.
 # also create a lambda function that multiplies argument x with argument y and print the result. [Lambda Function]
-numbers = [3, 4, 5, 6, 7, 8, 9]
-new_numbers = [value + 15 for value in numbers]
-print(new_numbers)
+new_numbers = (lambda x: x + 15)
+print(new_numbers(50))
 
 add_2_number = (lambda x, y: x + y)
 print(add_2_number(12, 13))
